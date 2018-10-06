@@ -29,7 +29,7 @@ class vowel
 	   if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
 		System.out.println(ch+" is a Consonant");
 	   else
-		System.out.println("Input is not an alphabet");		
+		System.out.println("invalid");		
         }
    }
 }
